@@ -1,6 +1,7 @@
 # C Language Learning Project
 
-This project is designed as a practical and concise introduction to the C programming language. Its primary objectives are to help me learn the core concepts, syntax, and characteristics of C through hands-on examples and exercises.
+This project is designed as a practical and concise introduction to the C programming language. Its primary objective is
+to help me learn the core concepts, syntax, and features of C through hands-on examples and exercises.
 
 ## Objectives
 
@@ -14,26 +15,28 @@ This project is designed as a practical and concise introduction to the C progra
 
 ### Prerequisites
 
-- A C compiler (GCC recommended)
-- Basic knowledge of programming concepts (recommended)
-- If is possible use a GNU/Linux distribution ([EndeavourOS](https://endeavouros.com/) recommended)
-
-### Building and Running
-
-Compile C and execute files using a command like:
-
-```shell
-gcc src/filename.c -o build/output_executable
-build/output_executable
-```
+- A C compiler (GCC recommended).
+- Basic knowledge of programming concepts (recommended).
+- If possible, use a GNU/Linux distribution ([EndeavourOS](https://endeavouros.com/) recommended).
 
 ## Project Structure
 
 - `src/` - Contains source code examples and exercises.
 - `include/` - Header files (if applicable).
-- `build/` - Contains the binaries of compiled source code
+- `build/` - Contains binaries of compiled source code.
 - `docs/` - Additional learning materials and references.
 
+Note: This structure is not yet fully implemented. You need to create the `build/` folder to compile and run the code,
+as well as the `include/` and `docs/` folders when they are needed.
+
+### Building and Running
+
+Compile and execute C files using a command like:
+
+```shell
+gcc src/filename.c -o build/output```ecutable
+./build/output```ecutable
+```
 
 ## License
 
