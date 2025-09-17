@@ -1,3 +1,25 @@
+/**
+ * @file smart_invest.c
+ * @brief A simple C program to calculate simple interest and total amount after a given period.
+ *
+ * This program prompts the user to enter the principal amount, rate of interest (in percentage),
+ * and time period (in years). It then calculates the simple interest using the formula:
+ *      Simple Interest = (Principal * Rate * Time) / 100
+ * and displays both the calculated interest and the total amount after the specified time.
+ *
+ * Usage:
+ *  - Enter the principal amount (integer).
+ *  - Enter the rate of interest (float, in percentage).
+ *  - Enter the time period (float, in years).
+ *
+ * Output:
+ *  - Displays the calculated simple interest.
+ *  - Displays the total amount after the specified time period.
+ *
+ * @author river
+ * @date 2025
+ */
+
 #include <stdio.h>
 
 
