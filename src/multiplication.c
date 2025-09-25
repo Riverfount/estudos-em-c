@@ -1,18 +1,3 @@
-/**
- * @file multiplication.c
- * @brief Simple program to multiply two integers entered by the user.
- *
- * This program prompts the user to input two integer values,
- * calculates their product, and displays the result.
- *
- * Usage:
- *  - The user is asked to enter two integers.
- *  - The program multiplies the entered values.
- *  - The result is printed to the standard output.
- *
- * @author river
- * @date 2025
- */
 #include <stdio.h>
 
 int main(){

@@ -1,19 +1,3 @@
-/**
- * @file average.c
- * @brief Calculates the arithmetic average of two integers entered by the user.
- *
- * This program prompts the user to input two integer values, computes their arithmetic average,
- * and displays the result with two decimal places.
- *
- * Steps:
- * 1. Prompts the user to enter two integers.
- * 2. Reads the input values.
- * 3. Calculates the average as a floating-point value.
- * 4. Prints the result.
- *
- * @author river
- * @date 2025
- */
 #include <stdio.h>
 
 int main(){

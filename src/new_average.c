@@ -1,16 +1,3 @@
-/*
- * This program calculates the arithmetic average of four integers entered by the user.
- *
- * Steps:
- * 1. Prompts the user to input four integer values.
- * 2. Reads the input values from standard input.
- * 3. Computes the average of the four integers as a floating-point number.
- * 4. Displays the result with two decimal places.
- *
- * Usage:
- * Run the program and follow the prompts to enter four integers.
- * The program will output their arithmetic average.
- */
 #include <stdio.h>
 
 

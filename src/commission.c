@@ -1,20 +1,3 @@
-/**
-  * This program prompts the user to enter the salesman's code, total sales made,
- * unit price of the product, fixed salary, and commission rate (as a percentage).
- * It then calculates the total amount of sales, computes the commission based on
- * the given rate, and sums it with the fixed salary to determine the total salary.
- * The result is displayed with two decimal places.
- *
- * Input:
- *   - Salesman's code (integer)
- *   - Total sales made (integer)
- *   - Unit price (double)
- *   - Fixed salary (double)
- *   - Commission rate in percentage (double)
- *
- * Output:
- *   - Total salary of the salesman, formatted as currency.
- */
 #include <stdio.h>
 
 int main(){
